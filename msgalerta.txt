@@ -1,0 +1,12 @@
+⚠️ Atenção: {HOST.NAME}	ℹ️ <b>GRUPO:</b> 
+Evento: {TRIGGER.NAME}
+ℹ️ {ITEM.NAME1} {ITEM.VALUE1}
+ℹ️ Severidade do problema: {EVENT.SEVERITY}
+⏰ Problema inicado às {EVENT.TIME} em {EVENT.DATE} 
+
+
+✅ Resolvido: {HOST.NAME} ℹ️ <b>GRUPO:</b> 
+Evento: {TRIGGER.NAME}
+ℹ️ {ITEM.NAME1} {ITEM.VALUE1}
+ℹ️ Severidade do problema: {EVENT.SEVERITY}
+⏰ Problema resolvido às {EVENT.TIME} em {EVENT.DATE}
